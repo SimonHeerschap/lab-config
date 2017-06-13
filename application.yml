@@ -2,6 +2,8 @@ security:
   basic:
     enabled: false
 
+queueName: billing-queue
+
 management:
   security:
     enabled: false
